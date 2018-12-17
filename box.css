@@ -1,0 +1,16 @@
+#buttons {
+       text-align:center;
+   }
+   #square {
+       position: absolute;
+       top: 50px;
+       left: 700px;
+       width: 200px;
+       height: 200px;
+       border-radius: 20px;
+       padding: 10px;
+       background-color: #00ffff;
+   }
+   div {
+       padding: 10px;
+   }
